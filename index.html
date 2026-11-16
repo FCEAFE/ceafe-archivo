@@ -87,6 +87,12 @@
     }
     #ceafe-archivo .ca-day h3 { font-size: 18px; line-height: 1.3; margin: 0 0 12px; }
     #ceafe-archivo .ca-links { display: flex; flex-wrap: wrap; gap: 8px; }
+    #ceafe-archivo .ca-ed { display: flex; align-items: center; gap: 10px; margin: 0 0 8px; flex-wrap: wrap; }
+    #ceafe-archivo .ca-ed:last-child { margin-bottom: 0; }
+    #ceafe-archivo .ca-time {
+      font-family: var(--font-head); font-weight: 700; font-size: 14px; color: var(--eu-blue);
+      min-width: 3.2em;
+    }
     #ceafe-archivo [hidden] { display: none !important; }
     @media (max-width: 640px) {
       #ceafe-archivo { padding: 8px 12px 28px; }
@@ -114,7 +120,7 @@
   <p class="cn-lede" data-i18n="lede">Archivo permanente de las Notas de Actualidad en cuatro secciones. Los últimos siete días están en la página de Notas de CEAFE.</p>
   <p class="cn-back"><a href="https://www.ceafe.eu/" target="_blank" rel="noopener noreferrer" data-i18n="back">Volver a CEAFE</a></p>
   <div data-archive>
-<section class="ca-month" data-month="2026-11"><h2>Noviembre 2026</h2><article class="ca-day"><h3 data-day="2026-11-15">15 de noviembre de 2026</h3><div class="ca-links" data-for-lang="es"><a class="cn-btn" href="pdf/2026/11/2026-11-15/actualidad_es.pdf" target="_blank" rel="noopener noreferrer">Actualidad</a><a class="cn-btn" href="pdf/2026/11/2026-11-15/conflictos_es.pdf" target="_blank" rel="noopener noreferrer">Conflictos</a><a class="cn-btn" href="pdf/2026/11/2026-11-15/industria-defensa_es.pdf" target="_blank" rel="noopener noreferrer">Industria de Defensa</a><a class="cn-btn" href="pdf/2026/11/2026-11-15/economia_es.pdf" target="_blank" rel="noopener noreferrer">Economía</a></div><div class="ca-links" data-for-lang="en" hidden><a class="cn-btn" href="pdf/2026/11/2026-11-15/actualidad.pdf" target="_blank" rel="noopener noreferrer">Current Affairs</a><a class="cn-btn" href="pdf/2026/11/2026-11-15/conflictos.pdf" target="_blank" rel="noopener noreferrer">Conflicts</a><a class="cn-btn" href="pdf/2026/11/2026-11-15/industria-defensa.pdf" target="_blank" rel="noopener noreferrer">Defence Industry</a><a class="cn-btn" href="pdf/2026/11/2026-11-15/economia.pdf" target="_blank" rel="noopener noreferrer">Economy</a></div></article></section>
+<section class="ca-month" data-month="2026-11"><h2>Noviembre 2026</h2><article class="ca-day"><h3 data-day="2026-11-16">16 de noviembre de 2026</h3><div class="ca-ed"><span class="ca-time">07:30</span><div class="ca-links" data-for-lang="es"><a class="cn-btn" href="pdf/2026/11/2026-11-16/0730/actualidad_es.pdf" target="_blank" rel="noopener noreferrer">Actualidad</a><a class="cn-btn" href="pdf/2026/11/2026-11-16/0730/conflictos_es.pdf" target="_blank" rel="noopener noreferrer">Conflictos</a><a class="cn-btn" href="pdf/2026/11/2026-11-16/0730/industria-defensa_es.pdf" target="_blank" rel="noopener noreferrer">Industria de Defensa</a><a class="cn-btn" href="pdf/2026/11/2026-11-16/0730/economia_es.pdf" target="_blank" rel="noopener noreferrer">Economía</a></div><div class="ca-links" data-for-lang="en" hidden><a class="cn-btn" href="pdf/2026/11/2026-11-16/0730/actualidad.pdf" target="_blank" rel="noopener noreferrer">World</a><a class="cn-btn" href="pdf/2026/11/2026-11-16/0730/conflictos.pdf" target="_blank" rel="noopener noreferrer">Conflicts</a><a class="cn-btn" href="pdf/2026/11/2026-11-16/0730/industria-defensa.pdf" target="_blank" rel="noopener noreferrer">Defence Industry</a><a class="cn-btn" href="pdf/2026/11/2026-11-16/0730/economia.pdf" target="_blank" rel="noopener noreferrer">Economy</a></div></div></article><article class="ca-day"><h3 data-day="2026-11-15">15 de noviembre de 2026</h3><div class="ca-links" data-for-lang="es"><a class="cn-btn" href="pdf/2026/11/2026-11-15/actualidad_es.pdf" target="_blank" rel="noopener noreferrer">Actualidad</a><a class="cn-btn" href="pdf/2026/11/2026-11-15/conflictos_es.pdf" target="_blank" rel="noopener noreferrer">Conflictos</a><a class="cn-btn" href="pdf/2026/11/2026-11-15/industria-defensa_es.pdf" target="_blank" rel="noopener noreferrer">Industria de Defensa</a><a class="cn-btn" href="pdf/2026/11/2026-11-15/economia_es.pdf" target="_blank" rel="noopener noreferrer">Economía</a></div><div class="ca-links" data-for-lang="en" hidden><a class="cn-btn" href="pdf/2026/11/2026-11-15/actualidad.pdf" target="_blank" rel="noopener noreferrer">World</a><a class="cn-btn" href="pdf/2026/11/2026-11-15/conflictos.pdf" target="_blank" rel="noopener noreferrer">Conflicts</a><a class="cn-btn" href="pdf/2026/11/2026-11-15/industria-defensa.pdf" target="_blank" rel="noopener noreferrer">Defence Industry</a><a class="cn-btn" href="pdf/2026/11/2026-11-15/economia.pdf" target="_blank" rel="noopener noreferrer">Economy</a></div></article></section>
   </div>
 </div>
 <script>
@@ -130,14 +136,14 @@
       noPdfs: "No hay PDF para este día."
     },
     en: {
-      title: "Current Affairs Notes Archive",
-      lede: "Permanent archive of the Current Affairs Notes in four sections. The last seven days are on CEAFE's Notes page.",
+      title: "Daily Notes Archive",
+      lede: "Permanent archive of the Daily Notes in four sections. The last seven days are on CEAFE's Notes page.",
       back: "Back to CEAFE",
       empty: "There are no archived notes yet.",
       noPdfs: "There are no PDFs for this day."
     }
   };
-  var LABELS = {"months": {"2026-11": {"es": "Noviembre 2026", "en": "November 2026"}}, "days": {"2026-11-15": {"es": "15 de noviembre de 2026", "en": "15 November 2026"}}};
+  var LABELS = {"months": {"2026-11": {"es": "Noviembre 2026", "en": "November 2026"}}, "days": {"2026-11-16": {"es": "16 de noviembre de 2026", "en": "16 November 2026"}, "2026-11-15": {"es": "15 de noviembre de 2026", "en": "15 November 2026"}}};
   var root = document.getElementById("ceafe-archivo");
   if (!root) return;
 

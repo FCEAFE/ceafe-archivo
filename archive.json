@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-11-16T02:44:46+01:00",
+  "updated_at": "2026-11-16T10:28:53+01:00",
   "timezone": "Europe/Madrid",
   "base_url": "https://fceafe.github.io/ceafe-archivo",
   "section_list": [
     {
       "id": "actualidad",
       "slug": "actualidad",
-      "title_en": "Current Affairs",
+      "title_en": "World",
       "title_es": "Actualidad",
-      "short_en": "Current Affairs",
+      "short_en": "World",
       "short_es": "Actualidad"
     },
     {
@@ -37,6 +37,34 @@
     }
   ],
   "days": [
+    {
+      "date": "2026-11-16",
+      "pdfs": {},
+      "editions": [
+        {
+          "edition": "0730",
+          "time": "07:30",
+          "pdfs": {
+            "actualidad": {
+              "en": "pdf/2026/11/2026-11-16/0730/actualidad.pdf",
+              "es": "pdf/2026/11/2026-11-16/0730/actualidad_es.pdf"
+            },
+            "conflictos": {
+              "en": "pdf/2026/11/2026-11-16/0730/conflictos.pdf",
+              "es": "pdf/2026/11/2026-11-16/0730/conflictos_es.pdf"
+            },
+            "industria-defensa": {
+              "en": "pdf/2026/11/2026-11-16/0730/industria-defensa.pdf",
+              "es": "pdf/2026/11/2026-11-16/0730/industria-defensa_es.pdf"
+            },
+            "economia": {
+              "en": "pdf/2026/11/2026-11-16/0730/economia.pdf",
+              "es": "pdf/2026/11/2026-11-16/0730/economia_es.pdf"
+            }
+          }
+        }
+      ]
+    },
     {
       "date": "2026-11-15",
       "pdfs": {
