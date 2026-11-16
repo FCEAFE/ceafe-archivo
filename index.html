@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>CEAFE — Archivo de Notas de Actualidad</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,600;0,700;1,400&family=Source+Sans+Pro:ital,wght@0,400;0,600;0,700;1,400&display=swap">
+  <style>
+    #ceafe-archivo {
+      --silver: #999999;
+      --eu-blue: #003399;
+      --ink: #1c1c1c;
+      --muted: #5a5a5a;
+      --slate: #6D7B8D;
+      --rule: #d0d0d0;
+      --paper: #ffffff;
+      --wash: #f8f9fa;
+      --line: #e0e0e0;
+      --focus: #003399;
+      --radius: 12px;
+      --font-head: Montserrat, Cabin, "Source Sans Pro", Karla, Arial, Helvetica, sans-serif;
+      --font-body: "Source Sans Pro", Montserrat, Cabin, Karla, Arial, Helvetica, sans-serif;
+      box-sizing: border-box;
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 8px 16px 36px;
+      color: var(--ink);
+      background: var(--paper);
+      font-family: var(--font-body);
+      font-size: 16px;
+      line-height: 1.5;
+      text-align: left;
+    }
+    #ceafe-archivo *, #ceafe-archivo *::before, #ceafe-archivo *::after { box-sizing: border-box; }
+    #ceafe-archivo a { color: var(--eu-blue); text-decoration: none; }
+    #ceafe-archivo a:hover { text-decoration: underline; }
+    #ceafe-archivo button {
+      font-family: inherit; color: inherit; background: none; border: 0; padding: 0; cursor: pointer;
+    }
+    #ceafe-archivo button:focus-visible,
+    #ceafe-archivo a:focus-visible { outline: 2px solid var(--focus); outline-offset: 2px; }
+    #ceafe-archivo h1, #ceafe-archivo h2, #ceafe-archivo h3 {
+      font-family: var(--font-head);
+      color: var(--ink);
+      font-weight: 700;
+      letter-spacing: 0.02em;
+      margin: 0;
+    }
+    #ceafe-archivo .cn-top {
+      display: flex; align-items: center; justify-content: space-between;
+      gap: 12px; margin: 4px 0 16px; padding-bottom: 10px; border-bottom: 2px solid var(--silver);
+    }
+    #ceafe-archivo .cn-brand { display: flex; align-items: center; gap: 8px; color: inherit; text-decoration: none; }
+    #ceafe-archivo .cn-brand img { width: 32px; height: 32px; object-fit: contain; display: block; }
+    #ceafe-archivo .cn-brand span {
+      font-family: var(--font-head); font-weight: 700; font-size: 15px;
+      letter-spacing: 0.08em; color: var(--silver);
+    }
+    #ceafe-archivo .cn-lang {
+      display: inline-flex; border: 1px solid var(--line); border-radius: 999px;
+      overflow: hidden; background: var(--wash);
+    }
+    #ceafe-archivo .cn-lang button {
+      padding: 5px 12px; font-size: 12px; font-weight: 700;
+      letter-spacing: 0.06em; color: var(--muted);
+    }
+    #ceafe-archivo .cn-lang button[aria-pressed="true"] { background: var(--eu-blue); color: #fff; }
+    #ceafe-archivo .cn-title { font-size: 28px; line-height: 1.2; margin: 8px 0 6px; }
+    #ceafe-archivo .cn-lede { margin: 0 0 10px; color: var(--muted); font-size: 15px; }
+    #ceafe-archivo .cn-back { margin: 0 0 22px; font-size: 15px; }
+    #ceafe-archivo .cn-btn {
+      display: inline-block; padding: 7px 13px; background: var(--eu-blue); color: #fff !important;
+      border-radius: 6px; font-weight: 700; font-size: 13px; text-decoration: none !important;
+    }
+    #ceafe-archivo .cn-btn:hover { background: #002266; text-decoration: none !important; }
+    #ceafe-archivo .cn-muted { color: var(--muted); font-size: 14px; }
+    #ceafe-archivo .ca-month { margin: 0 0 28px; }
+    #ceafe-archivo .ca-month h2 {
+      font-size: 13px; letter-spacing: 0.08em; text-transform: uppercase;
+      color: var(--silver); margin: 0 0 12px; padding-bottom: 8px; border-bottom: 1px solid var(--line);
+    }
+    #ceafe-archivo .ca-day {
+      background: var(--wash); border: 1px solid var(--line); border-top: 3px solid var(--eu-blue);
+      border-radius: var(--radius); padding: 16px 18px; margin: 0 0 12px;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+    }
+    #ceafe-archivo .ca-day h3 { font-size: 18px; line-height: 1.3; margin: 0 0 12px; }
+    #ceafe-archivo .ca-links { display: flex; flex-wrap: wrap; gap: 8px; }
+    @media (max-width: 640px) {
+      #ceafe-archivo { padding: 8px 12px 28px; }
+      #ceafe-archivo .cn-title { font-size: 22px; }
+      #ceafe-archivo .ca-day h3 { font-size: 17px; }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      #ceafe-archivo * { transition: none !important; }
+    }
+  </style>
+</head>
+<body style="margin:0;background:#fff;">
+<div id="ceafe-archivo" data-lang="es">
+  <div class="cn-top">
+    <a class="cn-brand" href="https://www.ceafe.eu/" target="_blank" rel="noopener noreferrer">
+      <img alt="CEAFE" width="32" height="32" src="https://cdn.website-editor.net/f7c65aed80b742b0abbdff1644ff11b2/dms3rep/multi/Logo+CEAFE.jpg">
+      <span>CEAFE</span>
+    </a>
+    <div class="cn-lang" role="group" aria-label="Language / Idioma">
+      <button type="button" data-set-lang="es" aria-pressed="true">ES</button>
+      <button type="button" data-set-lang="en" aria-pressed="false">EN</button>
+    </div>
+  </div>
+  <h1 class="cn-title" data-i18n="title">Archivo de Notas de Actualidad</h1>
+  <p class="cn-lede" data-i18n="lede">Archivo permanente de las Notas de Actualidad en cuatro secciones. Los últimos siete días están en la página de Notas de CEAFE.</p>
+  <p class="cn-back"><a href="https://www.ceafe.eu/" target="_blank" rel="noopener noreferrer" data-i18n="back">Volver a CEAFE</a></p>
+  <div data-archive>
+<section class="ca-month" data-month="2026-11"><h2>Noviembre 2026</h2><article class="ca-day"><h3 data-day="2026-11-15">15 de noviembre de 2026</h3><div class="ca-links" data-for-lang="es"><a class="cn-btn" href="pdf/2026/11/2026-11-15/actualidad_es.pdf" target="_blank" rel="noopener noreferrer">Actualidad</a><a class="cn-btn" href="pdf/2026/11/2026-11-15/conflictos_es.pdf" target="_blank" rel="noopener noreferrer">Conflictos</a><a class="cn-btn" href="pdf/2026/11/2026-11-15/industria-defensa_es.pdf" target="_blank" rel="noopener noreferrer">Industria de Defensa</a><a class="cn-btn" href="pdf/2026/11/2026-11-15/economia_es.pdf" target="_blank" rel="noopener noreferrer">Economía</a></div><div class="ca-links" data-for-lang="en" hidden><a class="cn-btn" href="pdf/2026/11/2026-11-15/actualidad.pdf" target="_blank" rel="noopener noreferrer">Current Affairs</a><a class="cn-btn" href="pdf/2026/11/2026-11-15/conflictos.pdf" target="_blank" rel="noopener noreferrer">Conflicts</a><a class="cn-btn" href="pdf/2026/11/2026-11-15/industria-defensa.pdf" target="_blank" rel="noopener noreferrer">Defence Industry</a><a class="cn-btn" href="pdf/2026/11/2026-11-15/economia.pdf" target="_blank" rel="noopener noreferrer">Economy</a></div></article></section>
+  </div>
+</div>
+<script>
+(function () {
+  "use strict";
+  var LANG_STORAGE_KEY = "ceafe-lang";
+  var I18N = {
+    es: {
+      title: "Archivo de Notas de Actualidad",
+      lede: "Archivo permanente de las Notas de Actualidad en cuatro secciones. Los últimos siete días están en la página de Notas de CEAFE.",
+      back: "Volver a CEAFE",
+      empty: "Todavía no hay notas archivadas.",
+      noPdfs: "No hay PDF para este día."
+    },
+    en: {
+      title: "Current Affairs Notes Archive",
+      lede: "Permanent archive of the Current Affairs Notes in four sections. The last seven days are on CEAFE's Notes page.",
+      back: "Back to CEAFE",
+      empty: "There are no archived notes yet.",
+      noPdfs: "There are no PDFs for this day."
+    }
+  };
+  var LABELS = {"months": {"2026-11": {"es": "Noviembre 2026", "en": "November 2026"}}, "days": {"2026-11-15": {"es": "15 de noviembre de 2026", "en": "15 November 2026"}}};
+  var root = document.getElementById("ceafe-archivo");
+  if (!root) return;
+
+  function preferredLang() {
+    try {
+      var params = new URLSearchParams(window.location.search);
+      var q = params.get("lang");
+      if (q === "en" || q === "es") return q;
+    } catch (e) {}
+    try {
+      var saved = localStorage.getItem(LANG_STORAGE_KEY);
+      if (saved === "en" || saved === "es") return saved;
+    } catch (e) {}
+    try {
+      var nav = (navigator.language || navigator.userLanguage || "").toLowerCase();
+      if (nav.indexOf("en") === 0) return "en";
+    } catch (e) {}
+    return "es";
+  }
+  function persistLang(lang) {
+    try { localStorage.setItem(LANG_STORAGE_KEY, lang); } catch (e) {}
+  }
+  function t(lang, key) {
+    return (I18N[lang] && I18N[lang][key]) || I18N.es[key] || key;
+  }
+  function setLang(lang, persist) {
+    lang = lang === "en" ? "en" : "es";
+    if (persist !== false) persistLang(lang);
+    root.setAttribute("data-lang", lang);
+    root.lang = lang;
+    try { document.documentElement.lang = lang; } catch (e) {}
+    try { document.title = "CEAFE — " + t(lang, "title"); } catch (e) {}
+    Array.prototype.forEach.call(root.querySelectorAll("[data-set-lang]"), function (btn) {
+      btn.setAttribute("aria-pressed", btn.getAttribute("data-set-lang") === lang ? "true" : "false");
+    });
+    Array.prototype.forEach.call(root.querySelectorAll("[data-i18n]"), function (el) {
+      el.textContent = t(lang, el.getAttribute("data-i18n"));
+    });
+    Array.prototype.forEach.call(root.querySelectorAll("[data-for-lang]"), function (el) {
+      if (el.getAttribute("data-for-lang") === lang) el.removeAttribute("hidden");
+      else el.setAttribute("hidden", "");
+    });
+    Array.prototype.forEach.call(root.querySelectorAll("[data-month]"), function (el) {
+      var key = el.getAttribute("data-month");
+      var h2 = el.querySelector("h2");
+      if (h2 && LABELS.months[key] && LABELS.months[key][lang]) h2.textContent = LABELS.months[key][lang];
+    });
+    Array.prototype.forEach.call(root.querySelectorAll("[data-day]"), function (el) {
+      var key = el.getAttribute("data-day");
+      if (LABELS.days[key] && LABELS.days[key][lang]) el.textContent = LABELS.days[key][lang];
+    });
+  }
+  Array.prototype.forEach.call(root.querySelectorAll("[data-set-lang]"), function (btn) {
+    btn.addEventListener("click", function () { setLang(btn.getAttribute("data-set-lang")); });
+  });
+  setLang(preferredLang(), false);
+})();
+</script>
+</body>
+</html>

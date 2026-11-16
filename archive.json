@@ -1,0 +1,62 @@
+{
+  "updated_at": "2026-11-16T02:44:46+01:00",
+  "timezone": "Europe/Madrid",
+  "base_url": "https://fceafe.github.io/ceafe-archivo",
+  "section_list": [
+    {
+      "id": "actualidad",
+      "slug": "actualidad",
+      "title_en": "Current Affairs",
+      "title_es": "Actualidad",
+      "short_en": "Current Affairs",
+      "short_es": "Actualidad"
+    },
+    {
+      "id": "conflictos",
+      "slug": "conflictos",
+      "title_en": "Conflicts",
+      "title_es": "Conflictos",
+      "short_en": "Conflicts",
+      "short_es": "Conflictos"
+    },
+    {
+      "id": "industria-defensa",
+      "slug": "industria-defensa",
+      "title_en": "Defence Industry",
+      "title_es": "Industria de Defensa",
+      "short_en": "Defence Industry",
+      "short_es": "Industria de Defensa"
+    },
+    {
+      "id": "economia",
+      "slug": "economia",
+      "title_en": "Economy",
+      "title_es": "Economía",
+      "short_en": "Economy",
+      "short_es": "Economía"
+    }
+  ],
+  "days": [
+    {
+      "date": "2026-11-15",
+      "pdfs": {
+        "actualidad": {
+          "en": "pdf/2026/11/2026-11-15/actualidad.pdf",
+          "es": "pdf/2026/11/2026-11-15/actualidad_es.pdf"
+        },
+        "conflictos": {
+          "es": "pdf/2026/11/2026-11-15/conflictos_es.pdf",
+          "en": "pdf/2026/11/2026-11-15/conflictos.pdf"
+        },
+        "economia": {
+          "es": "pdf/2026/11/2026-11-15/economia_es.pdf",
+          "en": "pdf/2026/11/2026-11-15/economia.pdf"
+        },
+        "industria-defensa": {
+          "en": "pdf/2026/11/2026-11-15/industria-defensa.pdf",
+          "es": "pdf/2026/11/2026-11-15/industria-defensa_es.pdf"
+        }
+      }
+    }
+  ]
+}
