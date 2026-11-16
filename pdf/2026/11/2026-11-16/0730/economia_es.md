@@ -111,19 +111,34 @@ Tratado en detalle en el informe R&D del 15 de noviembre; sin nuevas medidas de 
 
 ---
 
-## El tamaño importa: el G20 polaco frente a su peso en las clasificaciones; el poder de compra chino en el hierro
+## Polonia en el G20: su supuesta relación privilegiada con EE. UU. frente a su verdadero peso
 
-**El vice primer ministro y ministro de Defensa polaco, Władysław Kosiniak-Kamysz, escribió el 15 de noviembre que el PIB de Polonia supera el billón de dólares y que el país tiene asiento en el G20. @F_CEAFE respondió con las clasificaciones: 8 empresas polacas en el Forbes Global 2000 de 2026, 1 entre los 2.000 mayores inversores en I+D del EU Industrial R&D Investment Scoreboard 2025 y 1 en el Defense News Top 100.**
+**El vice primer ministro y ministro de Defensa polaco, Władysław Kosiniak-Kamysz, escribió el 15 de noviembre que el PIB de Polonia supera el billón de dólares y que el país tiene asiento en el G20. @F_CEAFE le respondió con las clasificaciones mundiales, donde apenas aparecen empresas polacas: 8 en el Forbes Global 2000 de 2026, 1 entre los 2.000 mayores inversores en I+D del mundo (EU Industrial R&D Investment Scoreboard 2025) y 1 en el Defense News Top 100.**
 
-Por otro lado, la ministra australiana de Recursos, Madeleine King, advirtió de que el uso del poder de compra de la estatal China Mineral Resources Group para rebajar el precio del mineral de hierro podría vulnerar las normas comerciales internacionales (Bloomberg, CNA, AFR): China usa la compra centralizada como palanca económica.
+Estas clasificaciones las encabezan, en primer lugar, las empresas de EE. UU. y, después, las chinas; frente a ellas, la presencia polaca es marginal, por mucho que aspire al G20 o presuma de una relación privilegiada con Washington.
 
-**Por qué importa a Europa.** es la línea editorial en cifras: incluso la gran economía de la UE que más crece tiene una base escasa de empresas de escala global e inversores en I+D; solo la escala europea, como demuestra China con un comprador estatal único, da poder de negociación. Ver /workspace/ceafe/shared/rankings.md.
+**Por qué importa a Europa.** Es la línea editorial de CEAFE en cifras: incluso la gran economía de la UE que más crece carece de una base de empresas de escala mundial e inversores en I+D. Ningún Estado miembro tiene por sí solo un peso real frente a EE. UU. y China; solo lo tiene la escala europea.
+
+**Qué vigilar.** El Scoreboard de I+D 2026 del JRC (diciembre).
 
 **Fuentes**
 
-- [X post 2122006655865160155](https://x.com/i/status/2122006655865160155)
-- [twitter.com](https://twitter.com/KosiniakKamysz/status/2121967695650300163)
-- [X post 2122116195339907343](https://x.com/i/status/2122116195339907343)
+- [@F_CEAFE](https://x.com/i/status/2122006655865160155)
+- [Władysław Kosiniak-Kamysz](https://twitter.com/KosiniakKamysz/status/2121967695650300163)
+
+---
+
+## China usa su poder de compra en el mineral de hierro
+
+**La ministra australiana de Recursos, Madeleine King, advirtió de que el uso del poder de compra de la estatal China Mineral Resources Group para rebajar el precio del mineral de hierro podría vulnerar las normas comerciales internacionales (Bloomberg, CNA, AFR).**
+
+**Por qué importa a Europa.** Un único comprador estatal da a China una palanca que ningún mercado fragmentado puede igualar; Europa solo negocia de igual a igual cuando actúa unida.
+
+**Qué vigilar.** La reacción china a las palabras de Canberra.
+
+**Fuentes**
+
+- [Bloomberg](https://x.com/i/status/2122116195339907343)
 - [channelnewsasia.com](https://www.channelnewsasia.com/world/australia-calls-out-china-iron-ore-trade-manipulation-6554051)
 - [minister.industry.gov.au](https://www.minister.industry.gov.au/king/media/doorstop-perth)
 

@@ -109,24 +109,36 @@ Covered in detail in the 15 November R&D brief; no new Dutch or Chinese governme
 
 - [Bloomberg](https://x.com/i/status/2121918643332112741)
 - [Reuters Tech](https://x.com/i/status/2121923685841785009)
-- /workspace/ceafe/briefs/rnd/2026-11-15.md (topic 1)
 
 ---
 
-## Size matters: Poland’s G20 claim vs. its weight in global rankings; China’s iron-ore buying power
+## Poland at the G20: its claimed special relationship with the US vs. its real weight
 
-**Polish Deputy PM and Defence Minister Władysław Kosiniak-Kamysz wrote on 15 November that Poland’s GDP exceeds $1 trillion and that it has a seat at the G20 table. @F_CEAFE replied with the rankings: 8 Polish companies in the 2026 Forbes Global 2000, 1 among the 2,000 top R&D investors in the 2025 EU Industrial R&D Investment Scoreboard, and 1 in the Defense News Top 100.**
+**Polish Deputy PM and Defence Minister Władysław Kosiniak-Kamysz wrote on 15 November that Poland’s GDP exceeds $1 trillion and that it has a seat at the G20 table. @F_CEAFE answered with the global rankings, where only a handful of Polish companies appear: 8 in the 2026 Forbes Global 2000, 1 among the world’s top 2,000 R&D investors (EU Industrial R&D Investment Scoreboard 2025) and 1 in the Defense News Top 100.**
 
-Separately, Australia’s Resources Minister Madeleine King said state-backed buyer China Mineral Resources Group’s use of purchasing power to push down iron-ore prices may breach international trade rules (Bloomberg, CNA, AFR) — a case of China using collective buying power as economic leverage.
+These rankings are led first by US and then by Chinese companies; set against them, Poland’s presence is marginal, whatever its G20 aspirations or its claimed privileged relationship with Washington.
 
-**Why it matters for Europe.** This is the editorial line in figures: even the EU’s fastest-growing large economy has a thin base of global-scale companies and R&D investors; only European scale, as China shows with a single state buyer for iron ore, gives bargaining power. See /workspace/ceafe/shared/rankings.md.
+**Why it matters for Europe.** It is CEAFE’s editorial line in figures: even the EU’s fastest-growing large economy lacks a base of global-scale companies and R&D investors. No member state alone carries real weight against the US and China; only European scale does.
 
-**What to watch.** Chinese reaction to Canberra’s remarks; JRC 2026 Scoreboard release (December).
+**What to watch.** The JRC 2026 R&D Scoreboard (December).
 
 **Sources**
 
-- [@F_CEAFE quote of (1)](https://x.com/i/status/2122006655865160155)
-- [@F_CEAFE quote of (2)](https://twitter.com/KosiniakKamysz/status/2121967695650300163)
+- [@F_CEAFE](https://x.com/i/status/2122006655865160155)
+- [Władysław Kosiniak-Kamysz](https://twitter.com/KosiniakKamysz/status/2121967695650300163)
+
+---
+
+## China turns its buying power on iron ore
+
+**Australia’s Resources Minister Madeleine King said state-backed buyer China Mineral Resources Group’s use of purchasing power to push down iron-ore prices may breach international trade rules (Bloomberg, CNA, AFR).**
+
+**Why it matters for Europe.** A single state buyer gives China leverage that no fragmented market can match; Europe only negotiates on equal terms when it acts together.
+
+**What to watch.** Chinese reaction to Canberra’s remarks.
+
+**Sources**
+
 - [Bloomberg](https://x.com/i/status/2122116195339907343)
 - [channelnewsasia.com](https://www.channelnewsasia.com/world/australia-calls-out-china-iron-ore-trade-manipulation-6554051)
 - [minister.industry.gov.au](https://www.minister.industry.gov.au/king/media/doorstop-perth)
