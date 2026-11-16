@@ -45,16 +45,16 @@
           "es": "pdf/2026/11/2026-11-15/actualidad_es.pdf"
         },
         "conflictos": {
-          "es": "pdf/2026/11/2026-11-15/conflictos_es.pdf",
-          "en": "pdf/2026/11/2026-11-15/conflictos.pdf"
-        },
-        "economia": {
-          "es": "pdf/2026/11/2026-11-15/economia_es.pdf",
-          "en": "pdf/2026/11/2026-11-15/economia.pdf"
+          "en": "pdf/2026/11/2026-11-15/conflictos.pdf",
+          "es": "pdf/2026/11/2026-11-15/conflictos_es.pdf"
         },
         "industria-defensa": {
           "en": "pdf/2026/11/2026-11-15/industria-defensa.pdf",
           "es": "pdf/2026/11/2026-11-15/industria-defensa_es.pdf"
+        },
+        "economia": {
+          "en": "pdf/2026/11/2026-11-15/economia.pdf",
+          "es": "pdf/2026/11/2026-11-15/economia_es.pdf"
         }
       }
     }
