@@ -18,12 +18,12 @@ Until then only the Foreign Ministry had spoken. The spokesperson said the US �
 
 **Sources**
 
-- [MOFCOM (primary, Chinese): ; Global Times (Chinese state media): ; @F_CEAFE repost of Global Times: ; @business (Bloomberg): ; TNW: ; MFA transcript of 17 November: (1)](http://www.mofcom.gov.cn/xwfb/xwfyrth/art/2026/art_c9c0beb01b8640d3ba9160b73d315716.html)
-- [MOFCOM (primary, Chinese): ; Global Times (Chinese state media): ; @F_CEAFE repost of Global Times: ; @business (Bloomberg): ; TNW: ; MFA transcript of 17 November: (2)](https://www.globaltimes.cn/page/202611/1374476.shtml)
-- [MOFCOM (primary, Chinese): ; Global Times (Chinese state media): ; @F_CEAFE repost of Global Times: ; @business (Bloomberg): ; TNW: ; MFA transcript of 17 November: (3)](https://x.com/i/status/2122715421203935438)
-- [MOFCOM (primary, Chinese): ; Global Times (Chinese state media): ; @F_CEAFE repost of Global Times: ; @business (Bloomberg): ; TNW: ; MFA transcript of 17 November: (4)](https://x.com/i/status/2122695045107024061)
-- [MOFCOM (primary, Chinese): ; Global Times (Chinese state media): ; @F_CEAFE repost of Global Times: ; @business (Bloomberg): ; TNW: ; MFA transcript of 17 November: (5)](https://thenextweb.com/news/china-warns-us-of-countermeasures-over-new-ai-chip-remote-access-curbs)
-- [MOFCOM (primary, Chinese): ; Global Times (Chinese state media): ; @F_CEAFE repost of Global Times: ; @business (Bloomberg): ; TNW: ; MFA transcript of 17 November: (6)](https://www.fmprc.gov.cn/mfa_eng/xw/fyrbt/lxjzh/202611/t20261117_12061159.html)
+- [MOFCOM (primary, Chinese)](http://www.mofcom.gov.cn/xwfb/xwfyrth/art/2026/art_c9c0beb01b8640d3ba9160b73d315716.html)
+- [Global Times (Chinese state media)](https://www.globaltimes.cn/page/202611/1374476.shtml)
+- [@F_CEAFE repost of Global Times](https://x.com/i/status/2122715421203935438)
+- [@business (Bloomberg)](https://x.com/i/status/2122695045107024061)
+- [TNW](https://thenextweb.com/news/china-warns-us-of-countermeasures-over-new-ai-chip-remote-access-curbs)
+- [MFA transcript of 17 November](https://www.fmprc.gov.cn/mfa_eng/xw/fyrbt/lxjzh/202611/t20261117_12061159.html)
 
 ---
 
@@ -39,15 +39,15 @@ Suzanne Nora Johnson chairs it, and Stephen C. Neal and John O. Dabiri are membe
 
 **Sources**
 
-- [NVIDIA Newsroom: ; House Select Committee on the CCP: ; @F_CEAFE reposts: , ; @WSJ: ; @Reuters: , ; @business: ; Politico: (1)](https://nvidianews.nvidia.com/news/nvidia-board-of-directors-establishes-national-security-and-export-control-oversight-committee)
-- [NVIDIA Newsroom: ; House Select Committee on the CCP: ; @F_CEAFE reposts: , ; @WSJ: ; @Reuters: , ; @business: ; Politico: (2)](https://chinaselectcommittee.house.gov/media/press-releases/jensen-huang-and-nvidia-agree-to-appear-before-congress)
-- [NVIDIA Newsroom: ; House Select Committee on the CCP: ; @F_CEAFE reposts: , ; @WSJ: ; @Reuters: , ; @business: ; Politico: (3)](https://x.com/i/status/2122658674480934947)
-- [NVIDIA Newsroom: ; House Select Committee on the CCP: ; @F_CEAFE reposts: , ; @WSJ: ; @Reuters: , ; @business: ; Politico: (4)](https://x.com/i/status/2122731961408233593)
-- [NVIDIA Newsroom: ; House Select Committee on the CCP: ; @F_CEAFE reposts: , ; @WSJ: ; @Reuters: , ; @business: ; Politico: (5)](https://x.com/i/status/2122644910574600548)
-- [NVIDIA Newsroom: ; House Select Committee on the CCP: ; @F_CEAFE reposts: , ; @WSJ: ; @Reuters: , ; @business: ; Politico: (6)](https://x.com/i/status/2122661027925950691)
-- [NVIDIA Newsroom: ; House Select Committee on the CCP: ; @F_CEAFE reposts: , ; @WSJ: ; @Reuters: , ; @business: ; Politico: (7)](https://x.com/i/status/2122739116055965881)
-- [NVIDIA Newsroom: ; House Select Committee on the CCP: ; @F_CEAFE reposts: , ; @WSJ: ; @Reuters: , ; @business: ; Politico: (8)](https://x.com/i/status/2122668636972122266)
-- [NVIDIA Newsroom: ; House Select Committee on the CCP: ; @F_CEAFE reposts: , ; @WSJ: ; @Reuters: , ; @business: ; Politico: (9)](https://www.politico.com/news/2026/11/17/nvidia-creates-board-committee-to-oversee-export-controls)
+- [NVIDIA Newsroom](https://nvidianews.nvidia.com/news/nvidia-board-of-directors-establishes-national-security-and-export-control-oversight-committee)
+- [House Select Committee on the CCP](https://chinaselectcommittee.house.gov/media/press-releases/jensen-huang-and-nvidia-agree-to-appear-before-congress)
+- [@F_CEAFE reposts (1)](https://x.com/i/status/2122658674480934947)
+- [@F_CEAFE reposts (2)](https://x.com/i/status/2122731961408233593)
+- [@WSJ](https://x.com/i/status/2122644910574600548)
+- [@Reuters (1)](https://x.com/i/status/2122661027925950691)
+- [@Reuters (2)](https://x.com/i/status/2122739116055965881)
+- [@business](https://x.com/i/status/2122668636972122266)
+- [Politico](https://www.politico.com/news/2026/11/17/nvidia-creates-board-committee-to-oversee-export-controls)
 
 ---
 
@@ -63,9 +63,9 @@ Today a bidder must make a mandatory offer when it reaches 30% of the voting rig
 
 **Sources**
 
-- [@Reuters exclusive: ; Reuters text (Euronext reprint): ; Börsen-Zeitung: (1)](https://x.com/i/status/2122734053312897182)
-- [@Reuters exclusive: ; Reuters text (Euronext reprint): ; Börsen-Zeitung: (2)](https://live.euronext.com/en/financial-news/exclusive-germany-plans-takeover-law-overhaul-curb-low-ball-bids-draft-law-shows)
-- [@Reuters exclusive: ; Reuters text (Euronext reprint): ; Börsen-Zeitung: (3)](https://www.boersen-zeitung.de/banken-finanzen/reform-des-uebernahmegesetzes-fordert-mehr-transparenz-und-valide-angebote-von-bietern)
+- [@Reuters exclusive](https://x.com/i/status/2122734053312897182)
+- [Reuters text (Euronext reprint)](https://live.euronext.com/en/financial-news/exclusive-germany-plans-takeover-law-overhaul-curb-low-ball-bids-draft-law-shows)
+- [Börsen-Zeitung](https://www.boersen-zeitung.de/banken-finanzen/reform-des-uebernahmegesetzes-fordert-mehr-transparenz-und-valide-angebote-von-bietern)
 
 ---
 
@@ -81,9 +81,9 @@ Today a bidder must make a mandatory offer when it reaches 30% of the voting rig
 
 **Sources**
 
-- [@ReutersTech (R&D list): ; Reuters text (SRN News reprint): ; Recharge: (1)](https://x.com/i/status/2122739114113962221)
-- [@ReutersTech (R&D list): ; Reuters text (SRN News reprint): ; Recharge: (2)](https://srnnews.com/vestas-boss-calls-for-tougher-eu-rules-on-chinese-software-in-wind-sector/)
-- [@ReutersTech (R&D list): ; Reuters text (SRN News reprint): ; Recharge: (3)](https://www.rechargenews.com/china/vestas-ceo-urges-eu-to-take-tough-line-on-chinese-wind-software-marker-they-laid-goes-both-ways/2-1-2075563)
+- [@ReutersTech (R&D list)](https://x.com/i/status/2122739114113962221)
+- [Reuters text (SRN News reprint)](https://srnnews.com/vestas-boss-calls-for-tougher-eu-rules-on-chinese-software-in-wind-sector/)
+- [Recharge](https://www.rechargenews.com/china/vestas-ceo-urges-eu-to-take-tough-line-on-chinese-wind-software-marker-they-laid-goes-both-ways/2-1-2075563)
 
 ---
 
@@ -99,11 +99,11 @@ The cabinet is due to approve the nomination on Wednesday 18 November, the deadl
 
 **Sources**
 
-- [@business (Bloomberg): , ; RTÉ/Reuters: ; Irish Times: ; Politico Europe: (1)](https://x.com/i/status/2122648487313485913)
-- [@business (Bloomberg): , ; RTÉ/Reuters: ; Irish Times: ; Politico Europe: (2)](https://x.com/i/status/2122651005170909439)
-- [@business (Bloomberg): , ; RTÉ/Reuters: ; Irish Times: ; Politico Europe: (3)](https://www.rte.ie/news/business/2026/1117/1599547-spains-de-cos-moves-closer-to-ecb-top-job/)
-- [@business (Bloomberg): , ; RTÉ/Reuters: ; Irish Times: ; Politico Europe: (4)](https://www.irishtimes.com/business/2026/11/17/germany-nominates-markus-brunnermeier-to-succeed-philip-laneas-chief-economist-at-ecb/)
-- [@business (Bloomberg): , ; RTÉ/Reuters: ; Irish Times: ; Politico Europe: (5)](https://www.politico.eu/article/germany-set-to-nominate-markus-brunnermeier-ecb-chief-economist/)
+- [@business (Bloomberg) (1)](https://x.com/i/status/2122648487313485913)
+- [@business (Bloomberg) (2)](https://x.com/i/status/2122651005170909439)
+- [RTÉ/Reuters](https://www.rte.ie/news/business/2026/1117/1599547-spains-de-cos-moves-closer-to-ecb-top-job/)
+- [Irish Times](https://www.irishtimes.com/business/2026/11/17/germany-nominates-markus-brunnermeier-to-succeed-philip-laneas-chief-economist-at-ecb/)
+- [Politico Europe](https://www.politico.eu/article/germany-set-to-nominate-markus-brunnermeier-ecb-chief-economist/)
 
 ---
 
@@ -119,12 +119,12 @@ They cover $2.0 trillion (8.0%) of world imports and $794 billion (3.2%) of expo
 
 **Sources**
 
-- [WTO (French page; DG remarks PDF): , ; @F_CEAFE repost of @wto: ; White House joint statement: ; Bangkok Post: ; @F_CEAFE repost of @RapidResponse47: ; @business: (1)](https://www.wto.org/french/news_f/news26_f/tmwto_17nov26_552_f.htm)
-- [WTO (French page; DG remarks PDF): , ; @F_CEAFE repost of @wto: ; White House joint statement: ; Bangkok Post: ; @F_CEAFE repost of @RapidResponse47: ; @business: (2)](https://www.wto.org/english/news_e/news_docs/DG_tprm.pdf)
-- [WTO (French page; DG remarks PDF): , ; @F_CEAFE repost of @wto: ; White House joint statement: ; Bangkok Post: ; @F_CEAFE repost of @RapidResponse47: ; @business: (3)](https://x.com/i/status/2122651669909369106)
-- [WTO (French page; DG remarks PDF): , ; @F_CEAFE repost of @wto: ; White House joint statement: ; Bangkok Post: ; @F_CEAFE repost of @RapidResponse47: ; @business: (4)](https://www.whitehouse.gov/briefings-statements/2026/11/joint-statement-on-an-agreement-between-the-united-states-of-america-and-the-kingdom-of-thailand-on-reciprocal-trade/)
-- [WTO (French page; DG remarks PDF): , ; @F_CEAFE repost of @wto: ; White House joint statement: ; Bangkok Post: ; @F_CEAFE repost of @RapidResponse47: ; @business: (5)](https://www.bangkokpost.com/thailand/general/3356460/thaius-trade-deal-near-the-finish-line)
-- [WTO (French page; DG remarks PDF): , ; @F_CEAFE repost of @wto: ; White House joint statement: ; Bangkok Post: ; @F_CEAFE repost of @RapidResponse47: ; @business: (6)](https://x.com/i/status/2122732551080980555)
-- [WTO (French page; DG remarks PDF): , ; @F_CEAFE repost of @wto: ; White House joint statement: ; Bangkok Post: ; @F_CEAFE repost of @RapidResponse47: ; @business: (7)](https://x.com/i/status/2122732810892960197)
+- [WTO (French page; DG remarks PDF) (1)](https://www.wto.org/french/news_f/news26_f/tmwto_17nov26_552_f.htm)
+- [WTO (French page; DG remarks PDF) (2)](https://www.wto.org/english/news_e/news_docs/DG_tprm.pdf)
+- [@F_CEAFE repost of @wto](https://x.com/i/status/2122651669909369106)
+- [White House joint statement](https://www.whitehouse.gov/briefings-statements/2026/11/joint-statement-on-an-agreement-between-the-united-states-of-america-and-the-kingdom-of-thailand-on-reciprocal-trade/)
+- [Bangkok Post](https://www.bangkokpost.com/thailand/general/3356460/thaius-trade-deal-near-the-finish-line)
+- [@F_CEAFE repost of @RapidResponse47](https://x.com/i/status/2122732551080980555)
+- [@business](https://x.com/i/status/2122732810892960197)
 
 ---

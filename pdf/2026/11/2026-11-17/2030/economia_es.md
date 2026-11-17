@@ -18,12 +18,12 @@ Hasta entonces solo se había pronunciado el Ministerio de Exteriores. El portav
 
 **Fuentes**
 
-- [MOFCOM (primaria, en chino): ; Global Times (medio estatal chino): ; publicación de Global Times compartida por @F_CEAFE: ; @business (Bloomberg): ; TNW: ; transcripción del MFA del 17 de noviembre: (1)](http://www.mofcom.gov.cn/xwfb/xwfyrth/art/2026/art_c9c0beb01b8640d3ba9160b73d315716.html)
-- [MOFCOM (primaria, en chino): ; Global Times (medio estatal chino): ; publicación de Global Times compartida por @F_CEAFE: ; @business (Bloomberg): ; TNW: ; transcripción del MFA del 17 de noviembre: (2)](https://www.globaltimes.cn/page/202611/1374476.shtml)
-- [MOFCOM (primaria, en chino): ; Global Times (medio estatal chino): ; publicación de Global Times compartida por @F_CEAFE: ; @business (Bloomberg): ; TNW: ; transcripción del MFA del 17 de noviembre: (3)](https://x.com/i/status/2122715421203935438)
-- [MOFCOM (primaria, en chino): ; Global Times (medio estatal chino): ; publicación de Global Times compartida por @F_CEAFE: ; @business (Bloomberg): ; TNW: ; transcripción del MFA del 17 de noviembre: (4)](https://x.com/i/status/2122695045107024061)
-- [MOFCOM (primaria, en chino): ; Global Times (medio estatal chino): ; publicación de Global Times compartida por @F_CEAFE: ; @business (Bloomberg): ; TNW: ; transcripción del MFA del 17 de noviembre: (5)](https://thenextweb.com/news/china-warns-us-of-countermeasures-over-new-ai-chip-remote-access-curbs)
-- [MOFCOM (primaria, en chino): ; Global Times (medio estatal chino): ; publicación de Global Times compartida por @F_CEAFE: ; @business (Bloomberg): ; TNW: ; transcripción del MFA del 17 de noviembre: (6)](https://www.fmprc.gov.cn/mfa_eng/xw/fyrbt/lxjzh/202611/t20261117_12061159.html)
+- [MOFCOM (primaria, en chino)](http://www.mofcom.gov.cn/xwfb/xwfyrth/art/2026/art_c9c0beb01b8640d3ba9160b73d315716.html)
+- [Global Times (medio estatal chino)](https://www.globaltimes.cn/page/202611/1374476.shtml)
+- [publicación de Global Times compartida por @F_CEAFE](https://x.com/i/status/2122715421203935438)
+- [@business (Bloomberg)](https://x.com/i/status/2122695045107024061)
+- [TNW](https://thenextweb.com/news/china-warns-us-of-countermeasures-over-new-ai-chip-remote-access-curbs)
+- [transcripción del MFA del 17 de noviembre](https://www.fmprc.gov.cn/mfa_eng/xw/fyrbt/lxjzh/202611/t20261117_12061159.html)
 
 ---
 
@@ -39,15 +39,15 @@ Lo preside Suzanne Nora Johnson, con Stephen C. Neal y John O. Dabiri como miemb
 
 **Fuentes**
 
-- [sala de prensa de NVIDIA: ; Comité Selecto sobre el PCCh: ; publicaciones compartidas por @F_CEAFE: , ; @WSJ: ; @Reuters: , ; @business: ; Politico: (1)](https://nvidianews.nvidia.com/news/nvidia-board-of-directors-establishes-national-security-and-export-control-oversight-committee)
-- [sala de prensa de NVIDIA: ; Comité Selecto sobre el PCCh: ; publicaciones compartidas por @F_CEAFE: , ; @WSJ: ; @Reuters: , ; @business: ; Politico: (2)](https://chinaselectcommittee.house.gov/media/press-releases/jensen-huang-and-nvidia-agree-to-appear-before-congress)
-- [sala de prensa de NVIDIA: ; Comité Selecto sobre el PCCh: ; publicaciones compartidas por @F_CEAFE: , ; @WSJ: ; @Reuters: , ; @business: ; Politico: (3)](https://x.com/i/status/2122658674480934947)
-- [sala de prensa de NVIDIA: ; Comité Selecto sobre el PCCh: ; publicaciones compartidas por @F_CEAFE: , ; @WSJ: ; @Reuters: , ; @business: ; Politico: (4)](https://x.com/i/status/2122731961408233593)
-- [sala de prensa de NVIDIA: ; Comité Selecto sobre el PCCh: ; publicaciones compartidas por @F_CEAFE: , ; @WSJ: ; @Reuters: , ; @business: ; Politico: (5)](https://x.com/i/status/2122644910574600548)
-- [sala de prensa de NVIDIA: ; Comité Selecto sobre el PCCh: ; publicaciones compartidas por @F_CEAFE: , ; @WSJ: ; @Reuters: , ; @business: ; Politico: (6)](https://x.com/i/status/2122661027925950691)
-- [sala de prensa de NVIDIA: ; Comité Selecto sobre el PCCh: ; publicaciones compartidas por @F_CEAFE: , ; @WSJ: ; @Reuters: , ; @business: ; Politico: (7)](https://x.com/i/status/2122739116055965881)
-- [sala de prensa de NVIDIA: ; Comité Selecto sobre el PCCh: ; publicaciones compartidas por @F_CEAFE: , ; @WSJ: ; @Reuters: , ; @business: ; Politico: (8)](https://x.com/i/status/2122668636972122266)
-- [sala de prensa de NVIDIA: ; Comité Selecto sobre el PCCh: ; publicaciones compartidas por @F_CEAFE: , ; @WSJ: ; @Reuters: , ; @business: ; Politico: (9)](https://www.politico.com/news/2026/11/17/nvidia-creates-board-committee-to-oversee-export-controls)
+- [sala de prensa de NVIDIA](https://nvidianews.nvidia.com/news/nvidia-board-of-directors-establishes-national-security-and-export-control-oversight-committee)
+- [Comité Selecto sobre el PCCh](https://chinaselectcommittee.house.gov/media/press-releases/jensen-huang-and-nvidia-agree-to-appear-before-congress)
+- [publicaciones compartidas por @F_CEAFE (1)](https://x.com/i/status/2122658674480934947)
+- [publicaciones compartidas por @F_CEAFE (2)](https://x.com/i/status/2122731961408233593)
+- [@WSJ](https://x.com/i/status/2122644910574600548)
+- [@Reuters (1)](https://x.com/i/status/2122661027925950691)
+- [@Reuters (2)](https://x.com/i/status/2122739116055965881)
+- [@business](https://x.com/i/status/2122668636972122266)
+- [Politico](https://www.politico.com/news/2026/11/17/nvidia-creates-board-committee-to-oversee-export-controls)
 
 ---
 
@@ -63,9 +63,9 @@ Hoy, un comprador debe lanzar una oferta obligatoria al alcanzar el 30% de los d
 
 **Fuentes**
 
-- [exclusiva de @Reuters: ; texto de Reuters (reproducido por Euronext): ; Börsen-Zeitung: (1)](https://x.com/i/status/2122734053312897182)
-- [exclusiva de @Reuters: ; texto de Reuters (reproducido por Euronext): ; Börsen-Zeitung: (2)](https://live.euronext.com/en/financial-news/exclusive-germany-plans-takeover-law-overhaul-curb-low-ball-bids-draft-law-shows)
-- [exclusiva de @Reuters: ; texto de Reuters (reproducido por Euronext): ; Börsen-Zeitung: (3)](https://www.boersen-zeitung.de/banken-finanzen/reform-des-uebernahmegesetzes-fordert-mehr-transparenz-und-valide-angebote-von-bietern)
+- [exclusiva de @Reuters](https://x.com/i/status/2122734053312897182)
+- [texto de Reuters (reproducido por Euronext)](https://live.euronext.com/en/financial-news/exclusive-germany-plans-takeover-law-overhaul-curb-low-ball-bids-draft-law-shows)
+- [Börsen-Zeitung](https://www.boersen-zeitung.de/banken-finanzen/reform-des-uebernahmegesetzes-fordert-mehr-transparenz-und-valide-angebote-von-bietern)
 
 ---
 
@@ -81,9 +81,9 @@ Hoy, un comprador debe lanzar una oferta obligatoria al alcanzar el 30% de los d
 
 **Fuentes**
 
-- [@ReutersTech (lista R&D): ; texto de Reuters (reproducido por SRN News): ; Recharge: (1)](https://x.com/i/status/2122739114113962221)
-- [@ReutersTech (lista R&D): ; texto de Reuters (reproducido por SRN News): ; Recharge: (2)](https://srnnews.com/vestas-boss-calls-for-tougher-eu-rules-on-chinese-software-in-wind-sector/)
-- [@ReutersTech (lista R&D): ; texto de Reuters (reproducido por SRN News): ; Recharge: (3)](https://www.rechargenews.com/china/vestas-ceo-urges-eu-to-take-tough-line-on-chinese-wind-software-marker-they-laid-goes-both-ways/2-1-2075563)
+- [@ReutersTech (lista R&D)](https://x.com/i/status/2122739114113962221)
+- [texto de Reuters (reproducido por SRN News)](https://srnnews.com/vestas-boss-calls-for-tougher-eu-rules-on-chinese-software-in-wind-sector/)
+- [Recharge](https://www.rechargenews.com/china/vestas-ceo-urges-eu-to-take-tough-line-on-chinese-wind-software-marker-they-laid-goes-both-ways/2-1-2075563)
 
 ---
 
@@ -99,11 +99,11 @@ El Gobierno alemán debe aprobar la candidatura el miércoles 18 de noviembre, f
 
 **Fuentes**
 
-- [@business (Bloomberg): , ; RTÉ/Reuters: ; The Irish Times: ; Politico Europe: (1)](https://x.com/i/status/2122648487313485913)
-- [@business (Bloomberg): , ; RTÉ/Reuters: ; The Irish Times: ; Politico Europe: (2)](https://x.com/i/status/2122651005170909439)
-- [@business (Bloomberg): , ; RTÉ/Reuters: ; The Irish Times: ; Politico Europe: (3)](https://www.rte.ie/news/business/2026/1117/1599547-spains-de-cos-moves-closer-to-ecb-top-job/)
-- [@business (Bloomberg): , ; RTÉ/Reuters: ; The Irish Times: ; Politico Europe: (4)](https://www.irishtimes.com/business/2026/11/17/germany-nominates-markus-brunnermeier-to-succeed-philip-laneas-chief-economist-at-ecb/)
-- [@business (Bloomberg): , ; RTÉ/Reuters: ; The Irish Times: ; Politico Europe: (5)](https://www.politico.eu/article/germany-set-to-nominate-markus-brunnermeier-ecb-chief-economist/)
+- [@business (Bloomberg) (1)](https://x.com/i/status/2122648487313485913)
+- [@business (Bloomberg) (2)](https://x.com/i/status/2122651005170909439)
+- [RTÉ/Reuters](https://www.rte.ie/news/business/2026/1117/1599547-spains-de-cos-moves-closer-to-ecb-top-job/)
+- [The Irish Times](https://www.irishtimes.com/business/2026/11/17/germany-nominates-markus-brunnermeier-to-succeed-philip-laneas-chief-economist-at-ecb/)
+- [Politico Europe](https://www.politico.eu/article/germany-set-to-nominate-markus-brunnermeier-ecb-chief-economist/)
 
 ---
 
@@ -119,12 +119,12 @@ Afectan a 2,0 billones de dólares (el 8,0%) de las importaciones mundiales y a 
 
 **Fuentes**
 
-- [OMC (página en francés; intervención de la directora general en PDF): , ; publicación de @wto compartida por @F_CEAFE: ; declaración conjunta de la Casa Blanca: ; Bangkok Post: ; publicación de @RapidResponse47 compartida por @F_CEAFE: ; @business: (1)](https://www.wto.org/french/news_f/news26_f/tmwto_17nov26_552_f.htm)
-- [OMC (página en francés; intervención de la directora general en PDF): , ; publicación de @wto compartida por @F_CEAFE: ; declaración conjunta de la Casa Blanca: ; Bangkok Post: ; publicación de @RapidResponse47 compartida por @F_CEAFE: ; @business: (2)](https://www.wto.org/english/news_e/news_docs/DG_tprm.pdf)
-- [OMC (página en francés; intervención de la directora general en PDF): , ; publicación de @wto compartida por @F_CEAFE: ; declaración conjunta de la Casa Blanca: ; Bangkok Post: ; publicación de @RapidResponse47 compartida por @F_CEAFE: ; @business: (3)](https://x.com/i/status/2122651669909369106)
-- [OMC (página en francés; intervención de la directora general en PDF): , ; publicación de @wto compartida por @F_CEAFE: ; declaración conjunta de la Casa Blanca: ; Bangkok Post: ; publicación de @RapidResponse47 compartida por @F_CEAFE: ; @business: (4)](https://www.whitehouse.gov/briefings-statements/2026/11/joint-statement-on-an-agreement-between-the-united-states-of-america-and-the-kingdom-of-thailand-on-reciprocal-trade/)
-- [OMC (página en francés; intervención de la directora general en PDF): , ; publicación de @wto compartida por @F_CEAFE: ; declaración conjunta de la Casa Blanca: ; Bangkok Post: ; publicación de @RapidResponse47 compartida por @F_CEAFE: ; @business: (5)](https://www.bangkokpost.com/thailand/general/3356460/thaius-trade-deal-near-the-finish-line)
-- [OMC (página en francés; intervención de la directora general en PDF): , ; publicación de @wto compartida por @F_CEAFE: ; declaración conjunta de la Casa Blanca: ; Bangkok Post: ; publicación de @RapidResponse47 compartida por @F_CEAFE: ; @business: (6)](https://x.com/i/status/2122732551080980555)
-- [OMC (página en francés; intervención de la directora general en PDF): , ; publicación de @wto compartida por @F_CEAFE: ; declaración conjunta de la Casa Blanca: ; Bangkok Post: ; publicación de @RapidResponse47 compartida por @F_CEAFE: ; @business: (7)](https://x.com/i/status/2122732810892960197)
+- [OMC (página en francés; intervención de la directora general en PDF) (1)](https://www.wto.org/french/news_f/news26_f/tmwto_17nov26_552_f.htm)
+- [OMC (página en francés; intervención de la directora general en PDF) (2)](https://www.wto.org/english/news_e/news_docs/DG_tprm.pdf)
+- [publicación de @wto compartida por @F_CEAFE](https://x.com/i/status/2122651669909369106)
+- [declaración conjunta de la Casa Blanca](https://www.whitehouse.gov/briefings-statements/2026/11/joint-statement-on-an-agreement-between-the-united-states-of-america-and-the-kingdom-of-thailand-on-reciprocal-trade/)
+- [Bangkok Post](https://www.bangkokpost.com/thailand/general/3356460/thaius-trade-deal-near-the-finish-line)
+- [publicación de @RapidResponse47 compartida por @F_CEAFE](https://x.com/i/status/2122732551080980555)
+- [@business](https://x.com/i/status/2122732810892960197)
 
 ---
