@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T07:01:17+01:00",
+  "updated_at": "2026-11-17T07:26:51+01:00",
   "timezone": "Europe/Madrid",
   "base_url": "https://fceafe.github.io/ceafe-archivo",
   "section_list": [
@@ -61,6 +61,10 @@
               "en": "pdf/2026/11/2026-11-17/0730/economia.pdf",
               "es": "pdf/2026/11/2026-11-17/0730/economia_es.pdf"
             }
+          },
+          "audio": {
+            "en": "pdf/2026/11/2026-11-17/0730/audio.mp3",
+            "es": "pdf/2026/11/2026-11-17/0730/audio_es.mp3"
           }
         }
       ]
@@ -133,6 +137,10 @@
               "en": "pdf/2026/11/2026-11-16/0730/economia.pdf",
               "es": "pdf/2026/11/2026-11-16/0730/economia_es.pdf"
             }
+          },
+          "audio": {
+            "en": "pdf/2026/11/2026-11-16/0730/audio.mp3",
+            "es": "pdf/2026/11/2026-11-16/0730/audio_es.mp3"
           }
         }
       ]
