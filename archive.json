@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T20:03:43+01:00",
+  "updated_at": "2026-11-18T07:06:48+01:00",
   "timezone": "Europe/Madrid",
   "base_url": "https://fceafe.github.io/ceafe-archivo",
   "section_list": [
@@ -37,6 +37,38 @@
     }
   ],
   "days": [
+    {
+      "date": "2026-11-18",
+      "pdfs": {},
+      "editions": [
+        {
+          "edition": "0730",
+          "time": "07:30",
+          "pdfs": {
+            "actualidad": {
+              "en": "pdf/2026/11/2026-11-18/0730/actualidad.pdf",
+              "es": "pdf/2026/11/2026-11-18/0730/actualidad_es.pdf"
+            },
+            "conflictos": {
+              "en": "pdf/2026/11/2026-11-18/0730/conflictos.pdf",
+              "es": "pdf/2026/11/2026-11-18/0730/conflictos_es.pdf"
+            },
+            "industria-defensa": {
+              "en": "pdf/2026/11/2026-11-18/0730/industria-defensa.pdf",
+              "es": "pdf/2026/11/2026-11-18/0730/industria-defensa_es.pdf"
+            },
+            "economia": {
+              "en": "pdf/2026/11/2026-11-18/0730/economia.pdf",
+              "es": "pdf/2026/11/2026-11-18/0730/economia_es.pdf"
+            }
+          },
+          "audio": {
+            "en": "pdf/2026/11/2026-11-18/0730/audio.mp3",
+            "es": "pdf/2026/11/2026-11-18/0730/audio_es.mp3"
+          }
+        }
+      ]
+    },
     {
       "date": "2026-11-17",
       "pdfs": {},
