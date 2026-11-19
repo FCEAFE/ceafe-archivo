@@ -68,7 +68,7 @@ La Comisión había propuesto un año; el aplazamiento fue mayor tras la presió
 
 **Qué vigilar.** Refrendo formal del Consejo y el Parlamento.
 
-**Fuentes:** [Consejo de la UE](https://www.consilium.europa.eu/en/press/press-releases/2026/11/19/methane-regulation-eu-agrees-targeted-amendment-to-safeguard-security-of-supply/), [@EUCouncilPress](https://x.com/i/status/2123247536366592162), [@EUCouncilPress](https://legal.economictimes.indiatimes.com/news/international/eu-parliament-agree-to-delay-methane-regulation-by-two-years/135976321), [Parlamento Europeo](https://www.europarl.europa.eu/news/en/press-room/20261021IPR48321/methane-rules-parliament-backs-longer-delay-for-energy-importers-and-producers)
+**Fuentes:** [Consejo de la UE](https://www.consilium.europa.eu/en/press/press-releases/2026/11/19/methane-regulation-eu-agrees-targeted-amendment-to-safeguard-security-of-supply/), [@EUCouncilPress](https://x.com/i/status/2123247536366592162), [legal.economictimes.indiatimes.com](https://legal.economictimes.indiatimes.com/news/international/eu-parliament-agree-to-delay-methane-regulation-by-two-years/135976321), [Parlamento Europeo](https://www.europarl.europa.eu/news/en/press-room/20261021IPR48321/methane-rules-parliament-backs-longer-delay-for-energy-importers-and-producers)
 
 ---
 
@@ -82,6 +82,6 @@ España acogió la reunión.
 
 **Qué vigilar.** Próxima «caja de negociación» de la presidencia del Consejo.
 
-**Fuentes:** [Ministerio de Asuntos Exteriores](https://www.exteriores.gob.es/es/Comunicacion/Comunicados/Paginas/2026_COMUNICADOS/Declaracion-conjunta-sobre-el-Marco-Financiero-Plurianual-2028-2034.aspx), [@MAECgob](https://x.com/i/status/2123195661294391772), [@MAECgob](https://www.infobae.com/america/agencias/2026/11/18/paises-amigos-de-la-cohesion-refirman-su-oposicion-a-recortes-en-financiacion-de-la-ue/)
+**Fuentes:** [Ministerio de Asuntos Exteriores](https://www.exteriores.gob.es/es/Comunicacion/Comunicados/Paginas/2026_COMUNICADOS/Declaracion-conjunta-sobre-el-Marco-Financiero-Plurianual-2028-2034.aspx), [@MAECgob](https://x.com/i/status/2123195661294391772), [infobae.com](https://www.infobae.com/america/agencias/2026/11/18/paises-amigos-de-la-cohesion-refirman-su-oposicion-a-recortes-en-financiacion-de-la-ue/)
 
 ---

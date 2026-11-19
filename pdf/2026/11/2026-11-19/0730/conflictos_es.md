@@ -28,7 +28,7 @@ Irán dice que sus fuerzas atacaron sistemas antiaéreos Patriot y plataformas d
 
 **Qué vigilar.** Nombres y banderas de los petroleros; comentario del CENTCOM sobre lo que Irán afirma de Kuwait.
 
-**Fuentes:** [Al Jazeera](https://x.com/i/status/2123158454747681034), [Al Jazeera](https://aje.news/bfbnk1), [@MenchOsint citando al UKMTO](https://x.com/i/status/2123182951705739735), [Anadolu](https://x.com/i/status/2123178183411294680), [Anadolu](https://t.me/s/Tasnimnews_en), [Euronews](https://x.com/i/status/2123118075369111592), [@ClashReport](https://x.com/i/status/2123122776341131600)
+**Fuentes:** [Al Jazeera](https://x.com/i/status/2123158454747681034), [Al Jazeera](https://aje.news/bfbnk1), [@MenchOsint citando al UKMTO](https://x.com/i/status/2123182951705739735), [Anadolu](https://x.com/i/status/2123178183411294680), [Tasnim](https://t.me/s/Tasnimnews_en), [Euronews](https://x.com/i/status/2123118075369111592), [@ClashReport](https://x.com/i/status/2123122776341131600)
 
 ---
 
@@ -70,7 +70,7 @@ La coalición liderada por Arabia Saudí afirma que una amenaza de misil hutí c
 
 **Qué vigilar.** Comunicado saudí sobre los daños en Riad; alteraciones de vuelos.
 
-**Fuentes:** [@MenchOsint citando a @Yah_Saree](https://x.com/i/status/2123150991608414350), [Reuters](https://x.com/i/status/2123257580298416585), [Al Jazeera](https://x.com/i/status/2123209953553055931), [Al Jazeera](https://t.me/s/Tasnimnews_en)
+**Fuentes:** [@MenchOsint citando a @Yah_Saree](https://x.com/i/status/2123150991608414350), [Reuters](https://x.com/i/status/2123257580298416585), [Al Jazeera](https://x.com/i/status/2123209953553055931), [Tasnim](https://t.me/s/Tasnimnews_en)
 
 ---
 

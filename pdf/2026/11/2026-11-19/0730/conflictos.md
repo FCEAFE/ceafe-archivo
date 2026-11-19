@@ -28,7 +28,7 @@ Iran says its forces struck US Patriot air-defence systems and drone and missile
 
 **What to watch.** Names and flags of the mined tankers; CENTCOM comment on the Kuwait claim.
 
-**Sources:** [Al Jazeera](https://x.com/i/status/2123158454747681034), [Al Jazeera](https://aje.news/bfbnk1), [@MenchOsint citing UKMTO](https://x.com/i/status/2123182951705739735), [Anadolu](https://x.com/i/status/2123178183411294680), [Anadolu](https://t.me/s/Tasnimnews_en), [Euronews](https://x.com/i/status/2123118075369111592), [@ClashReport](https://x.com/i/status/2123122776341131600)
+**Sources:** [Al Jazeera](https://x.com/i/status/2123158454747681034), [Al Jazeera](https://aje.news/bfbnk1), [@MenchOsint citing UKMTO](https://x.com/i/status/2123182951705739735), [Anadolu](https://x.com/i/status/2123178183411294680), [Tasnim](https://t.me/s/Tasnimnews_en), [Euronews](https://x.com/i/status/2123118075369111592), [@ClashReport](https://x.com/i/status/2123122776341131600)
 
 ---
 
@@ -70,7 +70,7 @@ The Saudi-led coalition says a Houthi missile threat toward Riyadh caused damage
 
 **What to watch.** Saudi statement on the damage in Riyadh; flight disruptions.
 
-**Sources:** [@MenchOsint citing @Yah_Saree](https://x.com/i/status/2123150991608414350), [Reuters](https://x.com/i/status/2123257580298416585), [Al Jazeera](https://x.com/i/status/2123209953553055931), [Al Jazeera](https://t.me/s/Tasnimnews_en)
+**Sources:** [@MenchOsint citing @Yah_Saree](https://x.com/i/status/2123150991608414350), [Reuters](https://x.com/i/status/2123257580298416585), [Al Jazeera](https://x.com/i/status/2123209953553055931), [Tasnim](https://t.me/s/Tasnimnews_en)
 
 ---
 
