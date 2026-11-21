@@ -1,0 +1,449 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>ACTUALIDAD — sábado, 21 de noviembre de 2026 · 20:30 — CEAFE</title>
+  <style>
+/* CEAFE daily list brief — article look
+   Silver #999999 sampled from the CEAFE wordmark lettering.
+   Site fonts: Montserrat, Source Sans Pro (and Source Serif Pro for body). */
+
+@font-face {
+  font-family: "Montserrat";
+  src: url("file:///usr/share/fonts/truetype/sand-box/google/Montserrat/Montserrat-VariableFont_wght.ttf") format("truetype");
+  font-weight: 100 900;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Montserrat";
+  src: url("file:///usr/share/fonts/truetype/sand-box/google/Montserrat/Montserrat-Italic-VariableFont_wght.ttf") format("truetype");
+  font-weight: 100 900;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Source Sans Pro";
+  src: url("file:///usr/share/fonts/truetype/sand-box/custom/Source%20Sans%20Pro/SourceSansPro-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Source Sans Pro";
+  src: url("file:///usr/share/fonts/truetype/sand-box/custom/Source%20Sans%20Pro/SourceSansPro-It.ttf") format("truetype");
+  font-weight: 400;
+  font-style: italic;
+}
+@font-face {
+  font-family: "Source Sans Pro";
+  src: url("file:///usr/share/fonts/truetype/sand-box/custom/Source%20Sans%20Pro/SourceSansPro-Semibold.ttf") format("truetype");
+  font-weight: 600;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Source Sans Pro";
+  src: url("file:///usr/share/fonts/truetype/sand-box/custom/Source%20Sans%20Pro/SourceSansPro-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Source Sans Pro";
+  src: url("file:///usr/share/fonts/truetype/sand-box/custom/Source%20Sans%20Pro/SourceSansPro-Light.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Source Serif Pro";
+  src: url("file:///usr/share/fonts/truetype/sand-box/custom/Source%20Serif%20Pro/SourceSerifPro-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Source Serif Pro";
+  src: url("file:///usr/share/fonts/truetype/sand-box/custom/Source%20Serif%20Pro/SourceSerifPro-It.ttf") format("truetype");
+  font-weight: 400;
+  font-style: italic;
+}
+@font-face {
+  font-family: "Source Serif Pro";
+  src: url("file:///usr/share/fonts/truetype/sand-box/custom/Source%20Serif%20Pro/SourceSerifPro-Semibold.ttf") format("truetype");
+  font-weight: 600;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Source Serif Pro";
+  src: url("file:///usr/share/fonts/truetype/sand-box/custom/Source%20Serif%20Pro/SourceSerifPro-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+}
+
+:root {
+  --silver: #999999;
+  --ink: #1c1c1c;
+  --muted: #5a5a5a;
+  --rule: #d0d0d0;
+  --eu-blue: #003399;
+  --paper: #ffffff;
+}
+
+* { box-sizing: border-box; }
+
+html, body {
+  margin: 0;
+  padding: 0;
+  background: var(--paper);
+  color: var(--ink);
+}
+
+body {
+  font-family: "Source Serif Pro", "Source Serif 4", Georgia, serif;
+  font-size: 11pt;
+  line-height: 1.55;
+  -webkit-font-smoothing: antialiased;
+}
+
+.page {
+  max-width: 210mm;
+  margin: 0 auto;
+  padding: 0 18mm 16mm;
+}
+
+/* ----- Masthead ----- */
+.masthead {
+  text-align: center;
+  padding: 8mm 0 6mm;
+}
+
+.masthead .logo {
+  display: block;
+  margin: 0 auto 7mm;
+  width: 168mm;
+  max-width: 100%;
+  height: auto;
+}
+
+.list-title {
+  margin: 0;
+  padding: 0 4mm;
+  font-family: "Montserrat", "Source Sans Pro", sans-serif;
+  font-weight: 700;
+  font-size: 16.5pt;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--silver);
+  line-height: 1.3;
+  text-align: center;
+  text-wrap: balance;
+}
+
+.list-title.long {
+  font-size: 12.5pt;
+  letter-spacing: 0.10em;
+  line-height: 1.35;
+}
+
+.list-date {
+  margin: 3mm 0 0;
+  font-family: "Montserrat", "Source Sans Pro", sans-serif;
+  font-weight: 400;
+  font-size: 10pt;
+  letter-spacing: 0.08em;
+  color: var(--silver);
+  text-transform: none;
+  text-align: center;
+}
+
+.masthead-rule {
+  border: 0;
+  border-top: 0.6pt solid var(--silver);
+  width: 42mm;
+  margin: 5.5mm auto 0;
+  opacity: 0.85;
+}
+
+/* ----- Article body ----- */
+article {
+  margin-top: 7mm;
+}
+
+article > h2:first-child {
+  margin-top: 0;
+}
+
+h2 {
+  font-family: "Montserrat", "Source Sans Pro", sans-serif;
+  font-weight: 650;
+  font-size: 13pt;
+  letter-spacing: 0.01em;
+  line-height: 1.3;
+  color: #222;
+  margin: 7.5mm 0 3mm;
+  page-break-after: avoid;
+  break-after: avoid;
+}
+
+h3 {
+  font-family: "Source Sans Pro", "Montserrat", sans-serif;
+  font-weight: 600;
+  font-size: 11pt;
+  color: #333;
+  margin: 5mm 0 2mm;
+  page-break-after: avoid;
+}
+
+p {
+  margin: 0 0 2.6mm;
+  orphans: 3;
+  widows: 3;
+  hyphens: auto;
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+.masthead p {
+  text-align: center;
+}
+
+a {
+  color: var(--eu-blue);
+  text-decoration: underline;
+  text-underline-offset: 1.5px;
+  text-decoration-thickness: 0.6px;
+  word-break: break-word;
+}
+
+strong, b {
+  font-weight: 600;
+}
+
+/* Section labels like **Why it matters for Europe:** */
+p > strong:first-child,
+li > strong:first-child {
+  font-family: "Source Sans Pro", "Montserrat", sans-serif;
+  font-weight: 600;
+  letter-spacing: 0.01em;
+}
+
+ul, ol {
+  margin: 0 0 3.2mm;
+  padding-left: 5.5mm;
+}
+
+li {
+  margin: 0 0 1.4mm;
+  padding-left: 1mm;
+  text-align: left;
+  overflow-wrap: anywhere;
+}
+
+li:last-child { margin-bottom: 0; }
+
+hr {
+  border: 0;
+  border-top: 0.4pt solid var(--rule);
+  margin: 6mm auto;
+  width: 100%;
+}
+
+blockquote {
+  margin: 3mm 0 3mm 4mm;
+  padding: 0 0 0 3.5mm;
+  border-left: 1.6pt solid var(--silver);
+  color: #333;
+}
+
+/* Images / figures */
+figure.brief-figure {
+  margin: 4mm auto 5mm;
+  padding: 0;
+  max-width: 100%;
+  text-align: center;
+  page-break-inside: avoid;
+  break-inside: avoid;
+}
+
+figure.brief-figure img {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+  max-height: 95mm;
+  width: auto;
+  height: auto;
+  object-fit: contain;
+}
+
+figcaption {
+  font-family: "Source Sans Pro", sans-serif;
+  font-size: 8.5pt;
+  font-style: italic;
+  line-height: 1.4;
+  color: var(--muted);
+  text-align: center;
+  margin-top: 1.8mm;
+  text-align-last: center;
+}
+
+.image-note {
+  font-family: "Source Sans Pro", sans-serif;
+  font-size: 9.5pt;
+  font-style: italic;
+  color: var(--muted);
+  text-align: left;
+}
+
+/* Footer */
+.doc-footer {
+  margin-top: 10mm;
+  padding-top: 3.5mm;
+  border-top: 0.4pt solid var(--rule);
+  font-family: "Source Sans Pro", sans-serif;
+  font-size: 8pt;
+  line-height: 1.45;
+  color: #888;
+}
+
+.doc-footer p { margin: 0 0 1.5mm; text-align: left; }
+.doc-footer p:last-child { margin-bottom: 0; }
+.doc-footer a { color: #666; }
+
+/* Print / PDF */
+@page {
+  size: A4;
+  margin: 12mm 14mm 14mm 14mm;
+}
+
+@media print {
+  html, body { background: #fff; }
+  .page { max-width: none; padding: 0; }
+  a { text-decoration: underline; }
+  .masthead { padding-top: 1mm; }
+}
+
+@media screen {
+  body { background: #ececec; }
+  .page {
+    background: #fff;
+    margin: 12px auto 32px;
+    padding: 12mm 18mm 16mm;
+    box-shadow: 0 1px 8px rgba(0,0,0,0.08);
+    min-height: 297mm;
+  }
+}
+
+
+/* Extra clearance for the stamped steel bar is reserved on the last page only,
+   via .steel-footer-spacer. Base @page bottom margin stays 14 mm. */
+@media print {
+  .steel-footer { display: none !important; }
+  .steel-footer-spacer {
+    display: block;
+    height: 10mm;
+  }
+}
+.steel-footer {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 8mm;
+  z-index: 1000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  pointer-events: none;
+}
+.steel-footer .steel-bar {
+  width: 148mm;
+  max-width: 100%;
+  height: 6.8mm;
+  box-sizing: border-box;
+  border-radius: 1.6mm;
+  background: linear-gradient(to right, #6d6661 0%, #6b6a6c 45%, #848389 100%);
+  box-shadow: inset 0 0.35mm 0.6mm rgba(255,255,255,0.20),
+              inset 0 -0.3mm 0.5mm rgba(0,0,0,0.22);
+  color: #e4e4e4;
+  font-family: "Source Sans Pro", "Calibri", Arial, sans-serif;
+  font-size: 8.5pt;
+  line-height: 6.8mm;
+  letter-spacing: 0.01em;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 4mm;
+  box-sizing: border-box;
+  white-space: nowrap;
+  overflow: hidden;
+}
+.steel-footer .steel-bar .steel-copy {
+  margin-left: auto;
+}
+.steel-footer .steel-bar a {
+  color: #e4e4e4;
+  text-decoration: none;
+}
+@media screen {
+  .steel-footer {
+    position: relative;
+    bottom: auto;
+    margin: 12mm auto 4mm;
+  }
+  .steel-footer-spacer { display: none; }
+}
+
+  </style>
+</head>
+<body>
+  <div class="page">
+    <header class="masthead">
+      <img class="logo" src="../../assets/cabecera_2.png" alt="CEAFE — Centro de Estudios y Análisis sobre el Futuro de Europa" />
+      <h1 class="list-title">ACTUALIDAD</h1>
+      <p class="list-date">sábado, 21 de noviembre de 2026 · 20:30</p>
+      <hr class="masthead-rule" />
+    </header>
+    <article>
+<ul>
+<li><strong>Section:</strong> World / Actualidad</li>
+<li><strong>Window covered:</strong> del sábado 21 de noviembre hacia las 13:00 al sábado 21 de noviembre hacia las 19:30 (hora de Madrid): todo lo nuevo desde la edición de las 14:30.</li>
+<li><strong>Compiled from:</strong> el informe de la sección Actualidad de CEAFE, los registros compartidos y las publicaciones de @F_CEAFE.</li>
+</ul>
+<h2 id="s1">Actualización: Rutte, en Varsovia: la OTAN defenderá «cada centímetro» de Polonia; el Consejo del Atlántico Norte se reúne el lunes</h2>
+<p><strong>El secretario general de la OTAN, Mark Rutte, declaró el sábado en Varsovia: «Puedo garantizar que la OTAN defenderá cada centímetro del territorio polaco».</strong></p>
+<p>Lo dijo un día después de que Polonia informara de que tres objetos rusos, probablemente dos misiles y un dron, entraron en su espacio aéreo (PAP vía Reuters, Polskie Radio). Calificó el incidente de «peligroso» y dijo que sus circunstancias siguen bajo investigación. Añadió que el Comandante Supremo Aliado en Europa, el general estadounidense Alexus Grynkewich, evaluará las vulnerabilidades de la disuasión y la defensa y hará ajustes si es necesario. El Consejo del Atlántico Norte se reunirá el lunes en Bruselas para tratar la violación (PAP). El ministro de Defensa, Władysław Kosiniak-Kamysz, ha pedido a la OTAN más fuerzas y capacidades para Eastern Sentry. Sobre un posible aumento de tropas y bases de EE. UU. en Polonia, Rutte respondió que es asunto de Varsovia y Washington, ya que EE. UU. revisa su despliegue en Europa (Polskie Radio).</p>
+<p><strong>Contexto:</strong> cazas F-16 polacos y Gripen suecos, con apoyo de aviones cisterna neerlandeses, respondieron a la incursión del 20 de noviembre; en Nowy Lipowiec se identificó un misil de crucero Kh-101 (Cancillería presidencial polaca, vía Poland-24). Estonia ha decidido cerrar sus cinco pasos fronterizos por carretera con Rusia desde el 1 de diciembre por un intento de incendio, ordenado por el GRU, contra el fabricante de drones Threod Systems (Gobierno estonio, Euronews). El sábado, la portavoz de Exteriores rusa, María Zajárova, advirtió de que los intentos de levantar un «cordón sanitario» alrededor de Rusia «les costarán caros a sus artífices» y que Rusia «se reserva el derecho a adoptar todas las medidas políticas y diplomáticas necesarias» (Ministerio de Exteriores ruso, fuente oficial rusa).</p>
+<p><strong>Por qué importa a Europa.</strong> La defensa aérea de Polonia vuelve a depender de la evaluación de un comandante estadounidense y de decisiones tomadas en Washington. Lo mismo ocurre con la permanencia de las tropas de EE. UU. Un pilar europeo con mando y defensa aérea y antimisiles propios no tendría que esperar a la revisión del despliegue estadounidense (véase el tema 3).</p>
+<p><strong>Fuentes:</strong> <a href="https://www.polskieradio.pl/395/7784/artykul/3755517">polskieradio.pl</a>, <a href="https://www.straitstimes.com/world/europe/nato-will-defend-every-inch-of-polish-territory-rutte-says">straitstimes.com</a>, <a href="https://www.arabnews.com/world/nato-will-defend-every-inch-of-polish-territory-rutte-says-3013390">arabnews.com</a>, <a href="https://poland-24.com/nato-rutte-defend-every-inch-poland-airspace/">poland-24.com</a>, <a href="https://x.com/i/status/2124179485469589531">@clashreport</a>, <a href="https://www.euronews.com/2026/11/20/estonia-to-shut-border-with-russia-over-gru-linked-sabotage-attack">Estonia</a>, <a href="https://www.vm.ee/en/news/foreign-minister-tsahkna-estonia-close-road-border-crossings-russia">Estonia</a>, <a href="https://x.com/i/status/2124123159783944442">Zakharova</a></p>
+<hr>
+<h2 id="s2">El «NATO 3.0» de Colby: lo que falta es adónde va el dinero europeo de defensa</h2>
+<p><strong>Elbridge Colby, subsecretario de Guerra de EE. UU. para Política, publicó un hilo de 23 mensajes sobre su intervención ante los ministros de Defensa de la UE esta semana.</strong></p>
+<p>En él afirmó que «los líderes de la OTAN reconocieron formalmente por primera vez que Europa asumiría el liderazgo de su defensa convencional». Calificó el compromiso de gastar «el 5 % del PIB en defensa y seguridad, con un 3,5 % en capacidades militares básicas» de «nuevo estándar global». Dijo que EE. UU. prioriza «nuestro propio territorio y hemisferio» y la «disuasión por negación a lo largo de la Primera Cadena de Islas». También explicó que trabaja con «los que avanzan más rápido» mediante el «Grupo de Bergen» mientras lleva a cabo una «Revisión del Despliegue en Europa» (publicaciones de Colby). Añadió que, con Europa «gastando cientos de miles de millones de euros más y asumiendo papeles clave en la OTAN», la relación será «más duradera, pragmática y equilibrada».</p>
+<p><strong>Enfoque de CEAFE (publicación propia):</strong> lo esencial que Colby omite «no es el porcentaje del PIB que los europeos dedican a defensa, ni el número de fuerzas estadounidenses que se mantienen en el continente. Es que ese gasto en defensa debe ir a sistemas de armas estadounidenses, y que la política de defensa europea debe desarrollarse dentro de la OTAN, una organización dirigida por EE. UU. cuyo Comandante Supremo Aliado en Europa (SACEUR) es siempre el general estadounidense que también dirige el Mando Europeo de EE. UU.». Ese mismo día, el Foro de Acceso a la Industria de Defensa Transatlántica, impulsado por EE. UU., promovió el «Made in NATO»: conectar a «más de 80 empresas estadounidenses con socios europeos» y «crear empleo estadounidense» (publicaciones del organizador). Puso a Polonia como ejemplo. Las Ventas Militares al Extranjero de EE. UU. a Polonia notificadas al Congreso suman 63.570 millones de dólares (21 notificaciones de la DSCA, de diciembre de 2022 a diciembre de 2025; recuento de CEAFE a partir de la DSCA y el Federal Register).</p>
+<p><strong>Por qué importa a Europa.</strong> Que «Europa tome el liderazgo» comprando armamento estadounidense y bajo un SACEUR estadounidense es trasladar la carga, no autonomía. Un gasto del 3,5 % del PIB solo construye soberanía europea si va a la industria europea, con su empleo, su I+D y la libertad frente a licencias de exportación ajenas. Los drones alemanes Virtus, de Stark, y HX-2, de Helsing, que superaron esta semana pruebas de fuego real con primeras entregas previstas este año (publicación propia), demuestran que hay alternativa europea.</p>
+<p><strong>Fuentes:</strong> <a href="https://x.com/F_CEAFE/status/2124129513030177201">@F_CEAFE</a>, <a href="https://x.com/i/status/2124118975982207412">@F_CEAFE</a>, <a href="https://x.com/i/status/2124117281173275086">@F_CEAFE</a>, <a href="https://x.com/i/status/2124117361653358635">@F_CEAFE</a>, <a href="https://x.com/i/status/2124117851300663302">@F_CEAFE</a>, <a href="https://x.com/i/status/2123065147266568514">TDIAF</a>, <a href="https://x.com/i/status/2123445281534406768">TDIAF</a>, <a href="https://x.com/F_CEAFE/status/2124121691970286033">Poland quote post</a>, <a href="https://www.dsca.mil/Press-Media/Major-Arms-Sales/Tag/61555/poland">DSCA Poland</a>, <a href="https://x.com/F_CEAFE/status/2124115616252735655">drones</a></p>
+<hr>
+<h2 id="s3">Actualización: la presión tecnológica de Washington sobre China tras Shenzhen: TSMC frena pedidos avanzados y la FCC veta a las operadoras chinas</h2>
+<p><strong>TSMC ha suspendido algunos pedidos que antes estaban autorizados a diseñadores chinos de chips en procesos de 16 nanómetros o menos, salvo que los clientes obtengan licencias de exportación de EE. UU. Sin ellas quedan limitados a 28 y 40 nm y no pueden usar memoria de alto ancho de banda ni empaquetado avanzado (fuentes de Reuters, vía Taiwan News, 20 nov.).</strong></p>
+<p>La medida sigue a nuevas normas del Departamento de Comercio estadounidense (BIS). TSMC dijo que «cumplirá todas las leyes y normas aplicables» (CNA). Además ampliará el control de clientes a su propiedad, sus accionistas y los pedidos hechos a través de filiales, también en Europa. La lista estadounidense de diseñadores aprobados incluye a Nvidia, AMD, Apple, MediaTek y Realtek, pero a ninguna empresa china. Por otra parte, horas después de la reunión Trump–Xi en Shenzhen, la Comisión Federal de Comunicaciones (FCC) votó prohibir a China Mobile, China Telecom, China Unicom y otros proveedores IP el acceso directo a números de teléfono de EE. UU. El veto alcanza también a proveedores que usen equipos de Huawei o ZTE (SCMP, Reuters vía Investing.com).</p>
+<p><strong>Reacción:</strong> la embajada china en Washington «se opuso firmemente y deploró» la decisión de la FCC, acusó a EE. UU. de «sobredimensionar el concepto de seguridad nacional y abusar del poder del Estado» y dijo que China defenderá los derechos de sus empresas (SCMP, vía Light Reading). No se ha encontrado en este periodo respuesta del MOFCOM a la suspensión de TSMC. Hay que seguirlo.</p>
+<p><strong>Por qué importa a Europa.</strong> Una fundición taiwanesa aplica ya licencias estadounidenses a clientes chinos, incluidos los pedidos canalizados por filiales europeas. La ley de exportación de EE. UU. llega así por defecto a las cadenas de suministro europeas. Europa no tiene una palanca comparable propia ni medidas recíprocas. Es el patrón ASML, ampliado.</p>
+<p><strong>Fuentes:</strong> <a href="https://x.com/F_CEAFE/status/2124201141588091155">@F_CEAFE</a>, <a href="https://www.taiwannews.com.tw/news/6478978">taiwannews.com.tw</a>, <a href="https://x.com/F_CEAFE/status/2124124524668969176">@F_CEAFE</a>, <a href="https://www.scmp.com/news/china/diplomacy/article/3375128/fcc-votes-ban-chinese-telecoms-direct-access-us-phone-numbers">scmp.com</a>, <a href="https://www.lightreading.com/regulatory-politics/fcc-tightens-grip-on-chinese-telcos-blocks-direct-access-to-us-phone-numbers">lightreading.com</a>, <a href="https://www.investing.com/news/stock-market-news/fcc-votes-to-ban-chinese-telecoms-from-direct-access-to-us-phone-numbers-5039586">investing.com</a></p>
+<hr>
+<h2 id="s4">Zelenski: Putin «no consiguió su Yalta 2»; la adhesión a la OTAN, sobre la mesa en Berlín; Streeting en Kiev</h2>
+<p><strong>Zelenski afirmó que Putin «no consiguió su &ldquo;Yalta 2&rdquo;» en la cumbre de Shenzhen y que China no apoyó redibujar fronteras (publicaciones de Zelenski; ClashReport).</strong></p>
+<p>Dijo que «la cuestión de la OTAN se planteó en la Coalición de Voluntarios en Berlín» y que «la garantía de seguridad más clara para Ucrania es la adhesión a la OTAN». También afirmó que Polonia estará entre los cinco países que representarán a Europa en las negociaciones, y citó a Dmitró Kuleba como posible embajador en EE. UU., puesto vacante desde agosto (ClashReport; Bloomberg). El ministro británico de Defensa, Wes Streeting, visitó Kiev en el Día de la Dignidad y la Libertad de Ucrania. Dijo que «nadie ha hecho más que Zelenski por la libertad y la democracia en Europa desde Churchill», llamó a Putin «asesino a sangre fría» y anunció una cooperación militar más estrecha (Streeting; Ministerio de Defensa británico). Zelenski indicó que se preparan nuevos pasos conjuntos en defensa. El Ministerio de Defensa ucraniano señaló que, antes de su ataque al puente de Crimea, Rusia había atacado puentes ucranianos 109 veces; el tráfico ferroviario por el puente se ha restablecido, según el vice primer ministro ruso (TASS, medio estatal ruso).</p>
+<p><strong>Por qué importa a Europa.</strong> El asiento de Europa en la mesa sigue siendo el formato E5, no la Unión. El Reino Unido, fuera de la UE, actúa como uno de los principales socios de defensa de Ucrania. La adhesión de Ucrania a la OTAN sigue siendo la garantía que pide Kiev, y es una decisión que controla Washington.</p>
+<p><strong>Fuentes:</strong> <a href="https://x.com/i/status/2124189344697094504">X</a>, <a href="https://x.com/i/status/2124187167077351761">X</a>, <a href="https://x.com/i/status/2124117212994883630">Poland in E5</a>, <a href="https://x.com/i/status/2124117555111768282">Kuleba</a>, <a href="https://x.com/i/status/2124129878488302039">Streeting</a>, <a href="https://x.com/i/status/2124160967831339167">UK MoD</a>, <a href="https://x.com/i/status/2124138048312992167">UK MoD</a>, <a href="https://x.com/i/status/2124181693795827902">&ldquo;cold-blooded killer&rdquo;</a>, <a href="https://x.com/i/status/2124117216585044232">Zelensky meeting</a>, <a href="https://x.com/i/status/2124120730702934185">Zelensky meeting</a>, <a href="https://x.com/i/status/2124178524948812005">DefenceU</a>, <a href="https://x.com/i/status/2124139621688938848">TASS</a></p>
+<hr>
+<h2 id="s5">Actualización: los eurodiputados y París rechazan los recortes presupuestarios de Costa</h2>
+<p><strong>Los eurodiputados que lideran la negociación del marco financiero 2028–2034 dijeron que «no pueden aceptar» la propuesta de negociación presentada el sábado por el presidente del Consejo Europeo, António Costa, que recorta 204.000 millones de euros respecto al plan de la Comisión (véase la edición de las 14:30, tema 2).</strong></p>
+<p>El ponente Siegfried Mureșan dijo que la propuesta «nos hace retroceder en lugar de preparar a Europa para los desafíos que vienen», aunque valoró el trabajo sobre recursos propios (Parlamento Europeo). El presidente de la Comisión de Desarrollo calificó los recortes de la ayuda al desarrollo de «error contraproducente». La presidencia francesa calificó la propuesta de «muy decepcionante» (titular de Reuters).</p>
+<p><strong>Por qué importa a Europa.</strong> Según las cifras de Costa, el gasto en defensa sube un 232 %, pero el presupuesto total se reduce. Europa acaba pagando la defensa común con dinero nacional en lugar de con un verdadero presupuesto común.</p>
+<p><strong>Fuentes:</strong> <a href="https://www.europarl.europa.eu/news/en/press-room/20261116IPR48909/lead-meps-reject-cuts-in-european-council-president-s">europarl.europa.eu</a>, <a href="https://x.com/i/status/2124146862290502033">@Europarl_EN</a>, <a href="https://x.com/i/status/2124124186214027277">@EuroParlPress</a>, <a href="https://reut.rs/4tdEKZH">Reuters</a></p>
+<hr>
+    </article>
+    <footer class="doc-footer">
+<p>Resumen diario de CEAFE — Actualidad. Centro de Estudios y Análisis sobre el Futuro de Europa · <a href="https://ceafe.eu">ceafe.eu</a></p>
+    </footer>
+  </div>
+<div class="steel-footer-spacer" aria-hidden="true"></div><div class="steel-footer" aria-label="CEAFE"><div class="steel-bar"><a href="mailto:info@ceafe.eu">info@ceafe.eu</a><span class="steel-copy">© 2026 CEAFE</span></div></div>
+</body>
+</html>
