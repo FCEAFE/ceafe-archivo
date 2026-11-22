@@ -32,7 +32,7 @@ La cadena de fuentes pasa por TASS: es una afirmación oficial rusa.
 
 ---
 
-## Irán: F-16 en disputa y nuevo dron reclamado por la Guardia Revolucionaria; el CENTCOM lo niega
+## Irán anuncia haber alcanzado un F-16 y derribado un nuevo dron; el CENTCOM lo niega
 
 ****Entradilla.** El Ejército iraní afirmó haber alcanzado un F-16 estadounidense sobre el Golfo (Reuters vía Al Jazeera, citando medios estatales iraníes, https://x.com/i/status/2124142636852535755); el CENTCOM negó cualquier ataque (https://x.com/i/status/2124152485350723725).**
 
